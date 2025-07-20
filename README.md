@@ -32,7 +32,7 @@ An **IT student** and a blend of **cybersecurity enthusiast** and **developer**.
 
 ---
 
-### Connect with me
+### 🛜 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miko-pineda/)
 [![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-00C7C7?style=for-the-badge&logo=hackthebox&logoColor=white)](https://app.hackthebox.com/profile/2016865)
