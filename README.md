@@ -1,13 +1,11 @@
-### Hi there, I'm ch1se! 👋
+# ch1se
 
-I'm an **IT student** with a deep passion for both **cybersecurity** and **coding**. My journey involves constantly exploring the intricate worlds of **ethical hacking** and **software development**.
+An **IT student** and a blend of **cybersecurity enthusiast** and **developer**. My work focuses on **ethical hacking**, security research, and building practical solutions through code.
 
-- 🔒 Actively involved with **Hack The Box**, always up for solving new challenges and diving into **offensive security**.
-- 🕵️ Currently focusing on honing my skills in **OSINT** and **blue teaming**.
-- 🚀 Still love the thrill of **red teaming** and tackling those exciting seasonal machines on Hack The Box.
-- 💻 On the coding front, I enjoy building tools and experimenting with various development projects that often intersect with my cybersecurity interests.
+- **Cybersecurity:** Active on **Hack The Box** (offensive security, red teaming, blue teaming, OSINT).
+- **Development:** Building tools and projects that complement my security interests.
 
 ---
 
-### Connect with me:
+### Find me here:
 [LinkedIn](https://www.linkedin.com/in/miko-pineda/) | [Hack The Box](https://app.hackthebox.com/profile/2016865)
