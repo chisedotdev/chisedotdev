@@ -10,4 +10,4 @@ I'm an **IT student** with a deep passion for both **cybersecurity** and **codin
 ---
 
 ### Connect with me:
-[Your LinkedIn Profile (if you have one)](https://www.linkedin.com/in/miko-pineda/) | [Hack The Box Profile](https://app.hackthebox.com/profile/2016865)
+[LinkedIn)](https://www.linkedin.com/in/miko-pineda/) | [Hack The Box Profile](https://app.hackthebox.com/profile/2016865)
