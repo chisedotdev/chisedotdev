@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi there, I'm ch1se! 👋
 
-<!--
-**chisedotdev/chisedotdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an **IT student** with a deep passion for both **cybersecurity** and **coding**. My journey involves constantly exploring the intricate worlds of **ethical hacking** and **software development**.
 
-Here are some ideas to get you started:
+- 🔒 Actively involved with **Hack The Box**, always up for solving new challenges and diving into **offensive security**.
+- 🕵️ Currently focusing on honing my skills in **OSINT** and **blue teaming**.
+- 🚀 Still love the thrill of **red teaming** and tackling those exciting seasonal machines on Hack The Box.
+- 💻 On the coding front, I enjoy building tools and experimenting with various development projects that often intersect with my cybersecurity interests.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Connect with me:
+[Your LinkedIn Profile (if you have one)](https://www.linkedin.com/in/miko-pineda/) | [Hack The Box Profile](https://app.hackthebox.com/profile/2016865)
